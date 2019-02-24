@@ -8,6 +8,10 @@ body {
     overflow: none;
 }
 
+.contactItems {
+    list-style-type: none;
+}
+
 .fab {
     list-style-type: none;
     overflow: none;
@@ -45,4 +49,26 @@ a:hover {
 .soundcloud {
     margin-top: 50px;
     text-align: center;
+}
+
+.aboutImg {
+    float: left;
+    width: 300px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.aboutTitle {
+    width: 60%;
+    margin: 0 auto;
+}
+
+input, textarea {
+    margin-bottom: 30px;
+}
+
+.contactForm {
+    margin-bottom: 50px;
 }
