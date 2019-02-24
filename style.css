@@ -3,9 +3,15 @@ body {
     font-family: sans-serif;
 }
 
-#navItems {
+.navItems {
     list-style-type: none;
     overflow: none;
+}
+
+.fab {
+    list-style-type: none;
+    overflow: none;
+    font-size: 1.5rem;
 }
 
 li {
@@ -24,7 +30,7 @@ a:hover {
     color: yellow;
 }
 
-#title {
+.title {
     text-align: center;
     margin-top: 50px;
     color: #ffffff;
